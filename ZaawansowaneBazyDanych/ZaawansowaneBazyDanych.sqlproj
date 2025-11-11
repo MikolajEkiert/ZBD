@@ -70,6 +70,8 @@
     <Folder Include="SalesLT\Sequences\" />
     <Folder Include="231374" />
     <Folder Include="231374\Tables" />
+    <Folder Include="Student_374" />
+    <Folder Include="Student_374\Tables" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\BuildVersion.sql" />
@@ -103,5 +105,6 @@
     <Build Include="SalesLT\Sequences\SalesOrderNumber.sql" />
     <Build Include="231374\Tables\Customer.sql" />
     <Build Include="231374\Tables\CustomerAddress.sql" />
+    <Build Include="Student_374\Tables\ProduktyM.sql" />
   </ItemGroup>
 </Project>
